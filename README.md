@@ -2,6 +2,10 @@
 
 A simple weather app that allows users to check the current weather conditions for a given location.
 
+# TO Run Project File
+
+https://sparshshrivastava75.github.io/Web_Dev/Weather_App/
+
 ## Features
 
 - Display current temperature, weather conditions, and location.
